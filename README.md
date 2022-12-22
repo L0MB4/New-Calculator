@@ -26,6 +26,4 @@
 # TEAM 💪:
 Developed, designed by: <i>codITA</i> (founded by L0MB4) 
 
-# REFS:
-##### Tank for the support: [@gEth0](https://github.com/gEth0)
 
